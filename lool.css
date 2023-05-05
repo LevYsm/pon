@@ -1,0 +1,15 @@
+body
+{
+background-color: #769;
+text-align: center;
+padding: 300px 300px 300px 300px ;
+margin: 0 auto;
+}
+
+a
+{
+color: rgb(36, 91, 42);    
+text-decoration: none;
+font-family: 'Russo One', sans-serif;
+width: 100%;
+}

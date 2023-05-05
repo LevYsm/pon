@@ -1,0 +1,46 @@
+body
+{
+background-color: rgb(72, 133, 91);
+margin: auto;
+padding: 50px 400px 100px 400px;
+text-align: center 10px ;
+font-family: 'Righteous', cursive;
+border: rgb(164, 222, 155)  dotted 50px ;
+}
+
+
+div.three
+{
+text-align: right;
+color: rgb(39, 39, 100);
+padding:20px 50px 20px 20px;
+border: #739 solid 4px ;
+border-radius: 40px;
+}
+
+img
+{
+display: block;
+margin:  auto;
+padding: 20px 20px 20px 50px ;      
+}
+
+div.first
+{
+color: rgb(84, 44, 101);
+border:#739 solid 10px ;
+border-radius: 30px;
+}
+
+.a
+{
+font-size: xx-large ;    
+text-align: center;
+text-decoration: none;
+
+} 
+
+a
+{
+ text-decoration: none;
+}
